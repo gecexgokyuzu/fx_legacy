@@ -1,0 +1,38 @@
+//
+login, register
+dashboard
+datatable
+modal edit ve add
+delete alert
+logout
+validate -> submit inputun altına red color 
+pagination url /page/2
+userTable
+
+action.php
+
+if($_GET['add-user'])
+
+AJAX Jquery
+
+role moderator kullanıcı eklediğinde adminin ekranına noti
+
+timeout
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    require header
+        require notfication
+        require userProfile
+    require sidebar
+    require maincontent
+    
+</body>
+</html>
